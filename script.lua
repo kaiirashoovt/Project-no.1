@@ -13,3 +13,5 @@ for _, line in ipairs(lines) do
         output =  ("Не папка: " .. line)
     end
 end
+
+
